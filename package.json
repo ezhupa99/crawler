@@ -1,0 +1,12 @@
+{
+	"name": "crawler",
+	"version": "1.0.0",
+	"main": "app.js",
+	"repository": "https://github.com/ezhupa99/crawler.git",
+	"author": "Emanuel Zhupa <ezhupa99@gmail.com>",
+	"license": "MIT",
+	"private": false,
+	"dependencies": {
+		"crawl-e/v0.4.9": "git+ssh://git@bitbucket.org/cinepass/crawl-e.git#v0.4.9"
+	}
+}
