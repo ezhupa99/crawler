@@ -1,0 +1,57 @@
+{
+  "crawler": {
+    "id": "singleCinemaCrawler1",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "name": "Kino Ebensee",
+    "address": "Schulgasse 6, 4802 Ebensee",
+    "website": "https://www.kino-ebensee.at/",
+    "phone": "0043 6133 6308"
+  },
+  "showtimes": [
+    {
+      "title": "THE PEANUT BUTTER FALCON",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-27T02:15:15"
+    },
+    {
+      "title": "LINDENBERG! MACH DEIN DING",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-27T02:15:15"
+    },
+    {
+      "title": "AU POSTE! DIE WACHE",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-27T02:15:15"
+    },
+    {
+      "title": "FRAUENFORUM SALZKAMMERGUT FILMABEND - LIEBES:LEBEN",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-27T02:15:15"
+    },
+    {
+      "title": "DIE DOHNAL",
+      "version": {
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-27T02:15:15"
+    }
+  ]
+}
