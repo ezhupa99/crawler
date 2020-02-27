@@ -1,0 +1,142 @@
+{
+  "crawler": {
+    "id": "Stadtkino",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "name": "Stadtkino",
+    "address": "Siebensterngasse 2/12 1070 Wien",
+    "website": "http://stadtkinowien.at/",
+    "phone": "+43 1 361 81 81"
+  },
+  "showtimes": [
+    {
+      "movie_title": "La Gomera",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Royal Train",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Royal Train",
+      "start_at": "2020-02-27T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La Gomera",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Royal Train",
+      "start_at": "2020-02-27T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La Gomera",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "La Gomera",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Special Screening: COUCH CONNECTIONS + Gespräch",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Royal Train",
+      "start_at": "2020-02-27T17:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Special Screening BORN IN EVIN - Baba, ich brauche Therapie.",
+      "start_at": "2020-02-27T19:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Die Wildhexe",
+      "start_at": "2020-02-27T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jenseits des Sichtbaren - Hilma af Klint",
+      "start_at": "2020-02-27T16:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Be Natural: The Untold Story of Alice Guy-Blaché",
+      "start_at": "2020-02-27T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Born in Evin",
+      "start_at": "2020-02-27T20:00:00",
+      "is_3d": false
+    }
+  ]
+}
