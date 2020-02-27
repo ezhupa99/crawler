@@ -1,0 +1,54 @@
+{
+  "crawler": {
+    "id": "burgkino",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "name": "Burg Kino",
+    "address": "Burg Kino Opernring 19 1010 Vienna",
+    "website": "https://www.burgkino.at/",
+    "phone": "+43 1 587 8406",
+    "email": "office@burgkino.at"
+  },
+  "showtimes": [
+    {
+      "title": "Parasite (Gisaengchung)",
+      "version": {
+        "subtitles": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-28T05:00:39"
+    },
+    {
+      "title": "J'Accuse",
+      "version": {
+        "subtitles": "In 1894, French Captain Alfred Dreyfus is wrongfully convicted of treason and sentenced to life imprisonment at Devil's Island.",
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-28T05:00:39"
+    },
+    {
+      "title": "Little Women",
+      "version": {
+        "subtitles": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women each determined to live life on their own terms.",
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-28T05:00:39"
+    },
+    {
+      "title": "A Hidden Life",
+      "version": {
+        "subtitles": "The Austrian Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II and is executed by them in 1943. Opening at Jägerstätter’s home in Austria’s countryside, the film follows Franz and his wife, Fani, along their path of resistance. Told through real wartime letters, this love story finds the couple in conflict with the members of their close-knit town, their church, their government, and even their friends — all of which brings them to a dramatic choice.",
+        "is3d": false,
+        "isImax": false
+      },
+      "start_at": "2020-02-28T05:00:39"
+    }
+  ]
+}
