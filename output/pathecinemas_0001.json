@@ -1,0 +1,2084 @@
+{
+  "crawler": {
+    "is_booking_link_capable": true,
+    "id": "patheCinemas",
+    "crawl-e": {
+      "version": "0.4.9"
+    }
+  },
+  "cinema": {
+    "id": "0001",
+    "name": "Pathé Charleroi",
+    "address": "Grand'Rue 141 6000 Charleroi",
+    "email": "info@pathe.be",
+    "website": "https://www.pathe.be/Browsing/Cinemas/Details/0001",
+    "lat": 50.4187,
+    "lon": 4.4591
+  },
+  "showtimes": [
+    {
+      "movie_title": "Tryo XXV - Le concert en direct Au cinéma",
+      "start_at": "2020-03-13T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=48871&visLang=1"
+    },
+    {
+      "movie_title": "Kinky Boots, le show au cinéma",
+      "start_at": "2020-03-12T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=47417&visLang=1"
+    },
+    {
+      "movie_title": "Visite d'équipe : #Losers Revolution",
+      "start_at": "2020-03-11T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49340&visLang=1"
+    },
+    {
+      "movie_title": "Le petit maître corrigé",
+      "start_at": "2020-03-08T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38550&visLang=1"
+    },
+    {
+      "movie_title": "Le petit maître corrigé",
+      "start_at": "2020-03-09T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38551&visLang=1"
+    },
+    {
+      "movie_title": "Le petit maître corrigé",
+      "start_at": "2020-03-15T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38552&visLang=1"
+    },
+    {
+      "movie_title": "En avant",
+      "start_at": "2020-02-29T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49878&visLang=1"
+    },
+    {
+      "movie_title": "En avant",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49879&visLang=1"
+    },
+    {
+      "movie_title": "En avant",
+      "start_at": "2020-02-29T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49880&visLang=1"
+    },
+    {
+      "movie_title": "En avant",
+      "start_at": "2020-02-29T18:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49881&visLang=1"
+    },
+    {
+      "movie_title": "Agrippina",
+      "start_at": "2020-02-29T18:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37636&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-02-28T17:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49897&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-02-28T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49898&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-02-29T17:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49903&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-02-29T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49904&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-03-01T17:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49909&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-03-01T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49910&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-03-02T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50154&visLang=1"
+    },
+    {
+      "movie_title": "Dark Waters",
+      "start_at": "2020-03-03T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50157&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-28T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50346&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-28T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50348&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-28T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50350&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-28T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50351&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-28T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50353&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-29T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50357&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-29T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50358&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-29T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50359&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-29T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50365&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-02-29T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50381&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-01T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50367&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-01T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50369&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-01T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50371&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-01T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50372&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-01T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50374&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-02T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50252&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-02T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50253&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-02T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50254&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-02T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50255&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-03T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50257&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-03T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50258&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-03T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50259&visLang=1"
+    },
+    {
+      "movie_title": "Lucky",
+      "start_at": "2020-03-03T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50260&visLang=1"
+    },
+    {
+      "movie_title": "Marguerite",
+      "start_at": "2020-02-28T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50330&visLang=1"
+    },
+    {
+      "movie_title": "Marguerite",
+      "start_at": "2020-02-29T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50331&visLang=1"
+    },
+    {
+      "movie_title": "Marguerite",
+      "start_at": "2020-03-01T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50332&visLang=1"
+    },
+    {
+      "movie_title": "Marguerite",
+      "start_at": "2020-03-02T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50334&visLang=1"
+    },
+    {
+      "movie_title": "Marguerite",
+      "start_at": "2020-03-03T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50333&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-28T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49926&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-28T17:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49927&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-28T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49928&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-29T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49932&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-29T17:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49933&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-02-29T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49934&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-01T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49938&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-01T17:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49939&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-01T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49940&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-02T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49943&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-02T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49945&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-03T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49948&visLang=1"
+    },
+    {
+      "movie_title": "Mes jours de gloire",
+      "start_at": "2020-03-03T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49950&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50272&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50273&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50027&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50275&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50029&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-28T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49994&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50277&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50278&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50032&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50280&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50034&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-02-29T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50000&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T11:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50282&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50283&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50037&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50285&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50039&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-01T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50006&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-02T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50287&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-02T16:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50153&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-02T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50289&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-02T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50010&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-02T22:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49946&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-03T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50291&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-03T16:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50156&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-03T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50293&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-03T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50014&visLang=1"
+    },
+    {
+      "movie_title": "The Boy : La malédiction de Brahms",
+      "start_at": "2020-03-03T22:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49951&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-28T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50167&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-28T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50168&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-28T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50169&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-28T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50355&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-29T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50171&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-29T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50172&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-02-29T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50173&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-01T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50175&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-01T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50176&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-01T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50177&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-01T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50376&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-02T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50178&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-02T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50179&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-02T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50180&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-02T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50256&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-03T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50181&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-03T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50182&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-03T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50183&visLang=1"
+    },
+    {
+      "movie_title": "The Gentlemen",
+      "start_at": "2020-03-03T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50261&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50345&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50347&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T15:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50349&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50352&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50354&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-28T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50380&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-29T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50360&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-29T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50361&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-29T15:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50362&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-29T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50363&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-02-29T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50059&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50366&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50368&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T15:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50370&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50373&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50375&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-01T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50383&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-02T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50212&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-02T15:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50213&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-02T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50214&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-02T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50215&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-03T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50217&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-03T15:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50218&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-03T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50219&visLang=1"
+    },
+    {
+      "movie_title": "Dix jours sans maman",
+      "start_at": "2020-03-03T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50220&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50108&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50109&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50110&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50111&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50112&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-28T22:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49899&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49967&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49968&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49969&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49970&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49971&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-02-29T22:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49905&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50114&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50115&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50116&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50117&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50118&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-01T22:20:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49911&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-02T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50119&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-02T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50120&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-02T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50122&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-03T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50123&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-03T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50124&visLang=1"
+    },
+    {
+      "movie_title": "L'appel de la forêt",
+      "start_at": "2020-03-03T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50126&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-28T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50083&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-28T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50084&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-28T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50085&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-28T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50087&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-29T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50088&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50089&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-29T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50090&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-02-29T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50092&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-01T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50093&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-01T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50094&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-01T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50095&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-01T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50097&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-02T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49942&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-02T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50121&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-03T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49947&visLang=1"
+    },
+    {
+      "movie_title": "Le prince oublié",
+      "start_at": "2020-03-03T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50125&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-28T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50025&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-28T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50026&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-28T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50028&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-28T21:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50276&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-28T22:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49966&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-29T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50030&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50031&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-29T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50033&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-29T21:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50281&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-02-29T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50113&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-01T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50035&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-01T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50036&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-01T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50038&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-01T21:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50286&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-01T22:25:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49976&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-02T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50009&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-02T21:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50290&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-02T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50216&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-03T18:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50013&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-03T21:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50294&visLang=1"
+    },
+    {
+      "movie_title": "Nightmare Island",
+      "start_at": "2020-03-03T22:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50221&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-28T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49894&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-28T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49895&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-28T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50379&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-29T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49900&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-29T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49901&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-02-29T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50382&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-03-01T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49906&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-03-01T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49907&visLang=1"
+    },
+    {
+      "movie_title": "Samsam",
+      "start_at": "2020-03-01T15:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50384&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50050&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50051&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50052&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50053&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50140&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50141&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50305&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50306&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50307&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50308&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-28T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50309&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50055&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50056&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50057&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50058&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50145&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50146&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50310&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50311&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50312&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50313&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-02-29T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50314&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50060&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50061&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50062&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50063&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T19:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50150&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50151&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50315&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50316&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50317&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50318&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-01T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50319&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50065&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50066&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50067&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50320&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50321&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50322&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-02T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50323&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T13:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50069&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50070&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50071&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50324&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50325&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50326&visLang=1"
+    },
+    {
+      "movie_title": "Sonic - Le film",
+      "start_at": "2020-03-03T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50327&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-02-28T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49924&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-02-28T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49925&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-02-29T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49930&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49931&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-03-01T10:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49936&visLang=1"
+    },
+    {
+      "movie_title": "Vic le Viking : l'épée magique",
+      "start_at": "2020-03-01T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49937&visLang=1"
+    },
+    {
+      "movie_title": "Les filles du Docteur March",
+      "start_at": "2020-02-28T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50274&visLang=1"
+    },
+    {
+      "movie_title": "Les filles du Docteur March",
+      "start_at": "2020-02-29T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50279&visLang=1"
+    },
+    {
+      "movie_title": "Les filles du Docteur March",
+      "start_at": "2020-03-01T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50284&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49845&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49846&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49849&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T14:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49963&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49964&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-28T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49965&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-29T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49850&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49851&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-02-29T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49854&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T11:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49855&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49856&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T21:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49859&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T14:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49973&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49974&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-01T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49975&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-02T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49860&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-02T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49862&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-03T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49864&visLang=1"
+    },
+    {
+      "movie_title": "Birds Of Prey",
+      "start_at": "2020-03-03T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49866&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-28T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49989&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-28T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49990&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-28T15:35:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49991&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-28T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49992&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-28T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49993&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-29T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49995&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-29T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49996&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-29T15:35:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49997&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-29T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49998&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-02-29T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49999&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-01T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50001&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-01T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50002&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-01T15:35:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50003&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-01T17:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50004&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-01T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50005&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-02T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50007&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-02T15:35:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50008&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-03T13:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50011&visLang=1"
+    },
+    {
+      "movie_title": "Ducobu 3",
+      "start_at": "2020-03-03T15:35:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50012&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-02-28T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50137&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-02-28T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50138&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-02-28T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50336&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-02-29T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50142&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-02-29T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50143&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-03-01T10:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50147&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-03-01T14:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50148&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-03-01T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50337&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-03-02T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50152&visLang=1"
+    },
+    {
+      "movie_title": "Le voyage du Dr. Dolittle",
+      "start_at": "2020-03-03T13:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50155&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-28T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49847&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-28T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50054&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-28T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49929&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-29T16:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50144&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-29T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49935&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-02-29T18:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49853&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-01T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49857&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-01T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50064&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-01T22:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49941&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-02T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49861&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-02T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50288&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-02T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50068&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-03T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50292&visLang=1"
+    },
+    {
+      "movie_title": "Bad Boys For Life",
+      "start_at": "2020-03-03T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50072&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-28T18:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49848&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49852&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-01T18:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49858&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-02T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49863&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-03T15:45:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50385&visLang=1"
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-03T20:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49867&visLang=1"
+    },
+    {
+      "movie_title": "Jumanji : Next Level",
+      "start_at": "2020-02-28T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49962&visLang=1"
+    },
+    {
+      "movie_title": "Jumanji : Next Level",
+      "start_at": "2020-03-01T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49972&visLang=1"
+    },
+    {
+      "movie_title": "La famille Addams",
+      "start_at": "2020-02-28T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50166&visLang=1"
+    },
+    {
+      "movie_title": "La famille Addams",
+      "start_at": "2020-02-29T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50170&visLang=1"
+    },
+    {
+      "movie_title": "La famille Addams",
+      "start_at": "2020-03-01T11:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=50174&visLang=1"
+    },
+    {
+      "movie_title": "Le vaisseau fantôme",
+      "start_at": "2020-03-14T17:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37637&visLang=1"
+    },
+    {
+      "movie_title": "Ladies Night : Divorce Club",
+      "start_at": "2020-03-24T19:30:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49833&visLang=1"
+    },
+    {
+      "movie_title": "Roméo et Juliette",
+      "start_at": "2020-03-29T16:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37638&visLang=1"
+    },
+    {
+      "movie_title": "Tosca",
+      "start_at": "2020-04-11T18:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37639&visLang=1"
+    },
+    {
+      "movie_title": "Joyaux",
+      "start_at": "2020-04-19T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37640&visLang=1"
+    },
+    {
+      "movie_title": "Maria Stuarda",
+      "start_at": "2020-05-09T18:55:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=37641&visLang=1"
+    },
+    {
+      "movie_title": "Le malade imaginaire",
+      "start_at": "2020-05-14T20:15:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38553&visLang=1"
+    },
+    {
+      "movie_title": "Le malade imaginaire",
+      "start_at": "2020-06-01T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38554&visLang=1"
+    },
+    {
+      "movie_title": "Le malade imaginaire",
+      "start_at": "2020-06-07T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38555&visLang=1"
+    },
+    {
+      "movie_title": "Le malade imaginaire",
+      "start_at": "2020-06-08T20:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38556&visLang=1"
+    },
+    {
+      "movie_title": "Le malade imaginaire",
+      "start_at": "2020-06-14T17:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=38557&visLang=1"
+    },
+    {
+      "movie_title": "André Rieu : Heureux ensemble !",
+      "start_at": "2020-08-01T19:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49338&visLang=1"
+    },
+    {
+      "movie_title": "André Rieu : Heureux ensemble !",
+      "start_at": "2020-08-02T15:00:00",
+      "is_3d": false,
+      "booking_link": "https://www.pathe.be/Ticketing/visSelectTickets.aspx?cinemacode=0001&txtSessionId=49339&visLang=1"
+    }
+  ]
+}
