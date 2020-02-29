@@ -15,40 +15,239 @@
   },
   "showtimes": [
     {
-      "title": "Parasite (Gisaengchung)",
-      "version": {
-        "subtitles": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
-        "is3d": false,
-        "isImax": false
-      },
-      "start_at": "2020-02-28T05:00:39"
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-28T20:30:00",
+      "is_3d": false
     },
     {
-      "title": "J'Accuse",
-      "version": {
-        "subtitles": "In 1894, French Captain Alfred Dreyfus is wrongfully convicted of treason and sentenced to life imprisonment at Devil's Island.",
-        "is3d": false,
-        "isImax": false
-      },
-      "start_at": "2020-02-28T05:00:39"
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-28T22:10:00",
+      "is_3d": false
     },
     {
-      "title": "Little Women",
-      "version": {
-        "subtitles": "Jo March reflects back and forth on her life, telling the beloved story of the March sisters - four young women each determined to live life on their own terms.",
-        "is3d": false,
-        "isImax": false
-      },
-      "start_at": "2020-02-28T05:00:39"
+      "movie_title": "J'Accuse",
+      "start_at": "2020-02-28T17:45:00",
+      "is_3d": false
     },
     {
-      "title": "A Hidden Life",
-      "version": {
-        "subtitles": "The Austrian Franz Jägerstätter, a conscientious objector, refuses to fight for the Nazis in World War II and is executed by them in 1943. Opening at Jägerstätter’s home in Austria’s countryside, the film follows Franz and his wife, Fani, along their path of resistance. Told through real wartime letters, this love story finds the couple in conflict with the members of their close-knit town, their church, their government, and even their friends — all of which brings them to a dramatic choice.",
-        "is3d": false,
-        "isImax": false
-      },
-      "start_at": "2020-02-28T05:00:39"
+      "movie_title": "Little Women",
+      "start_at": "2020-02-28T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-02-28T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-02-28T23:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-29T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-02-29T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Les Misérables",
+      "start_at": "2020-02-29T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-02-29T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-02-29T15:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-28T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-28T22:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-02-29T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-03-01T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "J'Accuse",
+      "start_at": "2020-02-28T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "J'Accuse",
+      "start_at": "2020-03-01T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-02-28T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-02-29T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-03-01T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Capital in the Twenty-First Century",
+      "start_at": "2020-03-01T14:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Les Misérables",
+      "start_at": "2020-02-29T16:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-02-28T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-02-29T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-03-01T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Hidden Life",
+      "start_at": "2020-03-01T14:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-02-28T23:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-02-29T15:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-03-01T15:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-03-02T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-03-03T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-03-04T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Parasite (Gisaengchung)",
+      "start_at": "2020-03-05T20:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "J'Accuse",
+      "start_at": "2020-03-05T17:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-03-02T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-03-03T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-03-04T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Little Women",
+      "start_at": "2020-03-05T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-04T18:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Les Misérables",
+      "start_at": "2020-03-02T18:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-03-02T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-03-03T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-03-04T18:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sorry We Missed You",
+      "start_at": "2020-03-05T20:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Third Man",
+      "start_at": "2020-03-03T18:15:00",
+      "is_3d": false
     }
   ]
 }

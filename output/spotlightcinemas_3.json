@@ -1,0 +1,830 @@
+{
+  "crawler": {
+    "id": "spotLightCinemas",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "id": 3,
+    "name": "Hudson",
+    "website": "https://spotlightcinemas.com/hudson",
+    "address": "350 Fairview Avenue, Hudson, NY 12534",
+    "phone": "(518) 822-1049 - Movie Line, (518) 822-0279 - Office Line",
+    "lat": 42.27252574861805,
+    "lon": -73.76111268477284
+  },
+  "showtimes": [
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-29T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-29T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-28T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-28T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-29T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-29T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-28T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-28T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-29T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-29T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-28T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-28T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-02-28T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-02-28T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-29T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-29T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-28T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-28T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-02-29T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-02-28T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-02-28T09:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-28T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-28T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-02-29T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-02-28T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-02-29T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-02-29T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-02-29T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-02-28T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-01T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-01T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-29T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-02-29T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-01T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-01T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-29T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-02-29T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-01T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-01T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-29T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-02-29T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-02-29T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-02-29T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-01T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-01T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-29T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-02-29T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-01T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-02-29T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-02-29T09:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-01T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-01T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-02-29T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-01T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-02-29T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-01T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-01T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-01T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-02-29T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-02T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-02T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-01T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-01T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-02T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-02T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-01T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-01T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-02T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-02T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-01T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-01T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-03-01T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-03-01T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-02T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-02T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-01T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-01T09:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-02T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-01T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-01T09:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-02T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-02T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-01T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-01T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-02T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-01T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-02T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-02T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-02T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-01T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-03T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-03T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-02T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-03T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-03T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-02T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-03T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-03T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-02T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-03-02T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-03T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-03T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-02T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-03T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-02T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-03T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-03T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-02T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-03T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-03T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-03T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-03T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-02T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-04T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-04T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-03T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-04T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-04T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-03T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-04T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-04T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-03T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-03-03T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-04T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-04T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-03T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-04T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-03T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-04T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-04T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-03T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-04T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-04T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-04T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-04T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-03T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-05T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-05T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Impractical Jokers: The Movie",
+      "start_at": "2020-03-04T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-05T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-05T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Invisible Man",
+      "start_at": "2020-03-04T06:50:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-05T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-05T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Call of the Wild",
+      "start_at": "2020-03-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Fantasy Island",
+      "start_at": "2020-03-04T07:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-05T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-05T04:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Sonic the Hedgehog",
+      "start_at": "2020-03-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-05T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn)",
+      "start_at": "2020-03-04T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-05T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-05T04:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "1917",
+      "start_at": "2020-03-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Bad Boys for Life",
+      "start_at": "2020-03-05T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-05T01:25:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Dolittle",
+      "start_at": "2020-03-05T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-05T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Jumanji: The Next Level",
+      "start_at": "2020-03-04T06:45:00",
+      "is_3d": false
+    }
+  ]
+}

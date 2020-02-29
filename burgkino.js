@@ -11,16 +11,17 @@ let crawlE = new CrawlE({
 		}
 	],
 	showtimes: {
-		url: 'https://www.burgkino.at/showtimes/today',
-		urlDateFormat: 'DD/MM/YYYY',
+		url:
+			':cinema.website:/showtimes/:page([today,tomorrow,this-week,next-week]):',
 		movies: {
 			box: '.views-row article',
 			title: '.col-sm-12 h2',
-			subtitles: {
-				selector: '.col-sm-8 > div:nth-child(4) p:nth-child(1)',
-				mapper: el => {
-					return el;
-				}
+			showtimes: {
+				box: 'tbody tr',
+				time: 'td:nth-child(2) time',
+				timeFormat: 'HH:mm',
+				date: 'td:nth-child(1) time',
+				dateFormat: 'ddd, DD.MM.YYYY'
 			}
 		}
 	}

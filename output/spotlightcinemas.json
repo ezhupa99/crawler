@@ -1,0 +1,16 @@
+{
+  "crawler": {
+    "id": "spotLightCinemas",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "name": "Home",
+    "website": "https://spotlightcinemas.com/corporate",
+    "address": "6 Stillwater Avenue, Orono, Me 04473",
+    "phone": "(207) 827-7411 - Movie Line, (207) 827-7411 - Office Line"
+  },
+  "showtimes": []
+}

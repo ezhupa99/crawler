@@ -1,0 +1,620 @@
+{
+  "crawler": {
+    "id": "spotLightCinemas",
+    "crawl-e": {
+      "version": "0.4.9"
+    },
+    "is_booking_link_capable": false
+  },
+  "cinema": {
+    "id": 6,
+    "name": "St. Andrews Columbia",
+    "website": "https://spotlightcinemas.com/standrews",
+    "address": "527 St. Andrews Road, Columbia, SC 29210",
+    "phone": "(803) 772-7469 - Movie Line, (803) 772-7469 - Office Line",
+    "lat": 34.04782842541055,
+    "lon": -81.12993888499895
+  },
+  "showtimes": [
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-02-29T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-02-28T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-29T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-29T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-28T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-28T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-02-29T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-02-28T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-02-29T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-02-28T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-02-29T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-02-28T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-29T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-29T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-28T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-28T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-29T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-29T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-28T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-28T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-01T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-02-29T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-01T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-01T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-29T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-02-29T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-01T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-02-29T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-01T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-02-29T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-01T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-02-29T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-01T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-01T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-29T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-02-29T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-01T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-01T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-29T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-02-29T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-02T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-01T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-02T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-02T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-01T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-01T09:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-02T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-01T09:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-02T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-01T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-02T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-01T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-02T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-02T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-01T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-01T09:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-02T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-02T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-01T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-01T09:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-03T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-03T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-03T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-02T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-03T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-03T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-02T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-03T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-02T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-03T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-03T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-02T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-03T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-03T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-02T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-04T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-04T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-04T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-03T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-04T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-04T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-03T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-04T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-03T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-04T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-04T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-03T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-04T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-04T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-03T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-05T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-05T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-05T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-04T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-05T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-05T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-04T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-05T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-04T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-05T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-05T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-04T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-05T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-05T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-04T07:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Queen & Slim",
+      "start_at": "2020-03-06T04:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-06T01:35:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-06T04:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Spies in Disguise",
+      "start_at": "2020-03-05T07:10:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "A Beautiful Day in the Neighborhood",
+      "start_at": "2020-03-06T04:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-06T01:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Ford v Ferrari",
+      "start_at": "2020-03-05T06:45:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-06T01:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Harriet",
+      "start_at": "2020-03-05T07:05:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-06T01:40:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-06T04:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Frozen II",
+      "start_at": "2020-03-05T07:20:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-06T01:15:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-06T04:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Star Wars: The Rise of Skywalker",
+      "start_at": "2020-03-05T07:00:00",
+      "is_3d": false
+    }
+  ]
+}
