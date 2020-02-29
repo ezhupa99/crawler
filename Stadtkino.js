@@ -10,13 +10,18 @@ let crawlE = new CrawlE({
 		}
 	],
 	showtimes: {
-		url: 'http://stadtkinowien.at/stadtkino/kinoprogramm/',
+		url: ':cinema.website:stadtkino/kinoprogramm/:date:',
+		urlDateFormat: 'YYYY/MM/DD',
 		movies: {
-			box: '.entry',
-			title: '.content h1',
+			box: 'section.box.entry',
+			title: 'div > h1 > a > strong',
 			showtimes: {
-				box: 'time > strong',
-				datetimeFormat: 'HH.mm'
+				box: 'time',
+				datetime: {
+					selector: ':box',
+					attribute: 'datetime'
+				},
+				datetimeFormat: 'YYYY-MM-DD HH:mm:ss'
 			}
 		}
 	}

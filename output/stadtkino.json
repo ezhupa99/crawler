@@ -14,128 +14,128 @@
   },
   "showtimes": [
     {
+      "movie_title": "The Royal Train",
+      "start_at": "2020-02-29T16:00:00",
+      "is_3d": false
+    },
+    {
       "movie_title": "La Gomera",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-02-29T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-02-29T20:00:00",
       "is_3d": false
     },
     {
       "movie_title": "The Royal Train",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-01T14:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-03-01T16:00:00",
       "is_3d": false
     },
     {
-      "movie_title": "The Royal Train",
-      "start_at": "2020-02-27T16:00:00",
+      "movie_title": "Born in Evin",
+      "start_at": "2020-03-01T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "La Gomera",
-      "start_at": "2020-02-27T18:00:00",
-      "is_3d": false
-    },
-    {
-      "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
-      "is_3d": false
-    },
-    {
-      "movie_title": "The Royal Train",
-      "start_at": "2020-02-27T14:00:00",
-      "is_3d": false
-    },
-    {
-      "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T16:00:00",
-      "is_3d": false
-    },
-    {
-      "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-01T20:00:00",
       "is_3d": false
     },
     {
       "movie_title": "La Gomera",
-      "start_at": "2020-02-27T20:00:00",
-      "is_3d": false
-    },
-    {
-      "movie_title": "La Gomera",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-02T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-03-02T20:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-03T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-03-03T20:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-04T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Special Screening: COUCH CONNECTIONS + Gespräch",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-03-04T20:00:00",
       "is_3d": false
     },
     {
       "movie_title": "The Royal Train",
-      "start_at": "2020-02-27T17:00:00",
+      "start_at": "2020-03-05T17:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T19:00:00",
+      "start_at": "2020-03-05T19:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Special Screening BORN IN EVIN - Baba, ich brauche Therapie.",
-      "start_at": "2020-02-27T19:00:00",
+      "start_at": "2020-03-05T19:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T18:15:00",
+      "start_at": "2020-03-07T18:15:00",
       "is_3d": false
     },
     {
       "movie_title": "Die Wildhexe",
-      "start_at": "2020-02-27T14:00:00",
+      "start_at": "2020-03-08T14:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Jenseits des Sichtbaren - Hilma af Klint",
-      "start_at": "2020-02-27T16:00:00",
+      "start_at": "2020-03-08T16:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Be Natural: The Untold Story of Alice Guy-Blaché",
-      "start_at": "2020-02-27T18:00:00",
+      "start_at": "2020-03-08T18:00:00",
       "is_3d": false
     },
     {
       "movie_title": "Born in Evin",
-      "start_at": "2020-02-27T20:00:00",
+      "start_at": "2020-03-08T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Freies Kino: DAS KÜNSTLERHAUS – AUFRUHR /UMBRUCH",
+      "start_at": "2020-03-10T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "FUTURE x DAYS: FOLLOW US TO HONEYLAND",
+      "start_at": "2020-03-11T19:30:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "The Square",
+      "start_at": "2020-03-12T20:00:00",
+      "is_3d": false
+    },
+    {
+      "movie_title": "Biorama x Global 2000: HONEYLAND - ab 13. März im Kino!",
+      "start_at": "2020-03-13T19:30:00",
       "is_3d": false
     }
   ]
